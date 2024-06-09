@@ -1,7 +1,5 @@
 /*
     Write a query that prints a list of employee names (i.e.: the  attribute) from the Employee table in alphabetical order.
-
-
 */
 
 
